@@ -1,5 +1,5 @@
 # Benchmarking machine learning and Cox regression approaches for lung cancer on combined RNA-seq and personalised metabolic modelling data
-Lung cancer rates are rising, with 29.5M cases and 16.4M deaths projected by 2040; in 2020, there were 19.3M cases, 2.21M related to lung cancer, motivating research into personalized treatment using multi-omics analysis, genome-scale metabolic models, and machine learning, identifying 17 new biomarkers and 4 pathways.
+Lung cancer rates are rising, with 29.5M cases and 16.4M deaths projected by 2040; in 2020, there were 19.3M cases, 2.21M related to lung cancer, motivating research into personalized treatment using multi-omics analysis, genome-scale metabolic models, and machine learning, identifying new biomarkers.
 
 ## Aims and Objectives
 (i) To evaluate and compare the accuracy of traditional machine learning and semi-parametric survival analysis methods in predicting patient outcomes. The objective is to collect patient survival data and compare the predictive accuracy of the two methods using appropriate statistical metrics. Also, to provide recommendations for the preferred machine learning survival method for anticipating patient outcomes based on a comparative analysis.
