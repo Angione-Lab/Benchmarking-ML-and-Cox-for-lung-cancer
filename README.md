@@ -36,4 +36,4 @@ Some of the plot analyses were done in R and R Studio software.
 (v) Open R files in R Studio, and before running the files, set the working directory.
 
 ## Workflow
-![MAIN_DESIGN](https://github.com/pradipms/Lungcancer/assets/78509712/54e66036-7b4f-426b-b39a-a62c2e3f9e2c)
+![MAIN_DESIGN](https://github.com/Angione-Lab/Benchmarking-ML-and-Cox-for-lung-cancer/assets/78509712/1068c4b7-be64-4732-8697-0a53e6d8e60e)
